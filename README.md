@@ -78,14 +78,14 @@ print(f"AUROC: {auroc:.3f}, ECE: {ece:.3f}")
 
 ```text
 AMMA-UQ/
-├── data/               # Dataset loading scripts
-├── src/                # Core implementation
-├── experiments/        # Experiment scripts
-├── config/             # Configuration files
-├── results/            # Output results
-├── notebooks/          # Analysis notebooks
-├── tests/              # Unit tests
-└── docs/               # Documentation
+|---data/               # Dataset loading scripts
+|---src/                # Core implementation
+|---experiments/        # Experiment scripts
+|---config/             # Configuration files
+|---results/            # Output results
+|---notebooks/          # Analysis notebooks
+|---tests/              # Unit tests
+|--- docs/               # Documentation
 ```
 
 ---
