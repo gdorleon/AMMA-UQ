@@ -140,7 +140,7 @@ See `docs/dataset_preparation.md` for detailed instructions.
 ## Citation
 
 ```bibtex
-@inproceedings{smith2026amma,
+@inproceedings{,
   title={AMMA-UQ: Adaptive Multi-Modal Attention for Uncertainty Quantification in Black-Box LLMs},
   author={....},
   booktitle={....},
